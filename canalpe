@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylisKAISER
+
+#EXTINF:-1 tvg-id="2" tvg-name="Atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png", ATV * | PE
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8?PlaylistKAISER
+
+#EXTINF:-1 tvg-id="3" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png", PANAMERICANA * | PE
+https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistKAISER
+
+#EXTINF:-1 tvg-id="4" tvg-name="LATINA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg",LATINA * | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&PlaylistKAISER
