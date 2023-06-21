@@ -15,13 +15,13 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 
 #EXTINF:-1 tvg-id="6" tvg-name="ATV ANDINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Andina_Televisi%C3%B3n_logo_2D_completo_1998.svg/revision/latest/scale-to-width-down/1000?cb=20221223025736&path-prefix=es",ATV ANDINA * | PE
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8&PlaylistKAISER
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png",TV PERU * | PE
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8&PlaylistKAISER
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-name="CARTONN NETWORKLA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network-1.png",CARTONN NETWORKLA * | PE
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8&PlaylistKAISER
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="DW ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW ESPAÑOL * | PE
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8&PlaylistKAISER
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
